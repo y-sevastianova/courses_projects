@@ -1,2 +1,2 @@
-# courses_projects
-A repository of study projects 
+# Courses projects
+A repository of study projects from Karpov.Courses.
